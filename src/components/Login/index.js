@@ -29,7 +29,7 @@ const Login = () => {
 
   return (
     <div className="login">
-      <h1 className="header">Login Page</h1>
+      <h1 className="headerTitle">Login Page</h1>
       <label htmlFor="email" className="label">
         Email :
       </label>
