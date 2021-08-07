@@ -1,0 +1,41 @@
+.homePage {
+  padding: 1em 0 1em 1em;
+  text-align: left;
+  display: flex;
+  max-width: 500px;
+  width: 90%;
+  background-color: aqua;
+  margin: auto;
+  flex-direction: column;
+  margin: 1em auto;
+  border-radius: 0.25em;
+  background-color: #e1e5ea;
+}
+
+.homeTitle {
+  margin: 1em 0 1em 0;
+}
+.homeSubTitle {
+  margin: 0.25em auto 0.25em 0;
+}
+.userDetails {
+  margin: 0.25em auto 0.25em 0;
+}
+.homeDetails {
+  margin: 1em auto 1em 1em;
+}
+
+.homeButton {
+  border: none;
+  font-size: 1.1rem;
+  padding: 0.5em;
+  margin: 1em;
+  width: 50%;
+  border-radius: 0.25em;
+  background-color: #a7bbc7;
+  height: 2.5rem;
+}
+
+.homeButton:hover {
+  transform: scale(1.02);
+}
