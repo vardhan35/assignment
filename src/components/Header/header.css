@@ -1,0 +1,21 @@
+.header {
+  align-items: center;
+  background: #da7f8f;
+  position: absolute;
+  width: 100vw;
+  height: 10vh;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  display: flex;
+  color: #e1e5ea;
+}
+
+.logo {
+  font-size: 1.8rem;
+  margin-left: 0.8em;
+}
+
+a {
+  color: #e1e5ea;
+}
